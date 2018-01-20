@@ -1,1 +1,1 @@
-zombie-factory
+Solidity demo from https://cryptozombies.io/
